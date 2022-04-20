@@ -1,2 +1,2 @@
-# Machine-Learning-Projects
-Summary of all machine learning projects that i have done
+# Data Science Projects
+Summary of all data science projects that i made
