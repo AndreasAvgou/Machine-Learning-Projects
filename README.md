@@ -7,3 +7,5 @@ Summary of all data science projects that i made
 4) [Genetic Bacteria Identification](https://github.com/AndreasAvgou/Genetic-Bacteria-Identification)
 5) [Survived 1 Year Prediction](https://github.com/AndreasAvgou/Survived-1-Year-Prediction)
 6) [Liver Disease Prediction](https://github.com/AndreasAvgou/Liver-Disease-Prediction)
+7) [Butterfly Identification](https://github.com/AndreasAvgou/Butterfly-Identification)
+8) [Airline Passenger Satisfaction](https://github.com/AndreasAvgou/Airline-Passenger-Satisfaction)
