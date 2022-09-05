@@ -1,4 +1,4 @@
-# Data Science Projects
+# Machine Learning Projects
 Summary of all data science projects that i made
 
 1) [Dermoscopic Melanoma Image Classification](https://github.com/AndreasAvgou/Dermoscopic-Melanoma-Image-Classification)
